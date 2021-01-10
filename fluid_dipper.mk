@@ -15,6 +15,7 @@ TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_INCLUDE_LIVE_WALLPAPERS := true
 TARGET_INCLUDE_MINIMAL_GAPPS := false
 TARGET_INCLUDE_AOSP_REPLACEMENTS := true
+FLUID_BUILD_TYPE := OFFICIAL
 $(call inherit-product, vendor/fluid/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
