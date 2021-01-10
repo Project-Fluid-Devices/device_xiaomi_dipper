@@ -12,6 +12,10 @@ persist.camera.sat.fallback.lux.d=20
 # Face Unlock
 ro.face.moto_unlock_service.cam_id=5
 
+# Fluid Specific props
+ro.fluid.cpu=SDM845
+ro.fluid.maintainer=ender1324
+
 # SurfaceFlinger
 ro.surface_flinger.has_HDR_display=true
 ro.surface_flinger.wcg_composition_dataspace=143261696
