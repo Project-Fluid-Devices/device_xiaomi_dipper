@@ -1,0 +1,20 @@
+[
+  {
+    "repository":"PixelExperience/packages_resources_devicesettings-custom",
+    "target_path":"packages/resources/devicesettings-custom",
+    "branch":"eleven",
+    "remote":"github"
+  },
+  {
+    "repository":"device_xiaomi_sdm845-common",
+    "target_path":"device/xiaomi/sdm845-common",
+    "branch":"fluid-11",
+    "remote":"fluid-devices"
+  },
+  {
+    "repository":"kernel_xiaomi_dipper",
+    "target_path":"kernel/xiaomi/dipper",
+    "branch":"fluid-11",
+    "remote":"fluid-devices"
+  }
+]
