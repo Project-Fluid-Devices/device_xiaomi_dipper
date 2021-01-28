@@ -17,4 +17,17 @@
     "branch":"fluid-11",
     "remote":"fluid-devices"
   }
+  {
+    "repository":"ender1324/vendor_xiaomi_dipper",
+    "target_path":"vendor/xiaomi/dipper",
+    "branch":"fluid-11",
+    "remote":"gitlab"
+  }
+  {
+    "repository":"ender1324/vendor_xiaomi_sdm845-common",
+    "target_path":"vendor/xiaomi/sdm845-common",
+    "branch":"fluid-11",
+    "remote":"gitlab"
+  }
+
 ]
