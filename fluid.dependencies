@@ -6,6 +6,12 @@
     "remote":"github"
   },
   {
+    "repository":"LineageOS/android_hardware_xiaomi",
+    "target_path":"hardware/xiaomi",
+    "branch":"lineage-18.1",
+    "remote":"github"
+  },
+  {
     "repository":"device_xiaomi_sdm845-common",
     "target_path":"device/xiaomi/sdm845-common",
     "branch":"fluid-11",
@@ -16,18 +22,17 @@
     "target_path":"kernel/xiaomi/dipper",
     "branch":"fluid-11",
     "remote":"fluid-devices"
-  }
+  },
   {
-    "repository":"ender1324/vendor_xiaomi_dipper",
+    "repository":"vendor_xiaomi_dipper",
     "target_path":"vendor/xiaomi/dipper",
     "branch":"fluid-11",
-    "remote":"gitlab"
-  }
+    "remote":"fluid-devices"
+  },
   {
-    "repository":"ender1324/vendor_xiaomi_sdm845-common",
+    "repository":"vendor_xiaomi_sdm845-common",
     "target_path":"vendor/xiaomi/sdm845-common",
     "branch":"fluid-11",
-    "remote":"gitlab"
+    "remote":"fluid-devices"
   }
-
 ]
