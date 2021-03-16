@@ -40,6 +40,9 @@ on boot
     chown gps system /dev/bbd_sensor
     chmod 0774 /dev/bbd_sensor
 
+    chown system system /sys/module/msm_drm/parameters/flickerfree_enabled
+    chmod 0660 /sys/module/msm_drm/parameters/flickerfree_enabled
+
 on post-fs-data
     mkdir /data/vendor/gps
     mkdir /data/vendor/gps/log

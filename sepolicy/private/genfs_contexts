@@ -1,0 +1,1 @@
+genfscon sysfs /sys/module/msm_drm/parameters/flickerfree_enabled       u:object_r:sysfs_dc_dim:s0
