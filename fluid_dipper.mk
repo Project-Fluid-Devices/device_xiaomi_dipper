@@ -8,7 +8,7 @@ $(call inherit-product, device/xiaomi/dipper/device.mk)
 
 # Inherit some common Fluid stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
-TARGET_INCLUDE_GAPPS := true
+#TARGET_INCLUDE_GAPPS := true
 #TARGET_GAPPS_ARCH := arm64
 TARGET_INCLUDE_GOOGLE_RECORDER := true
 TARGET_INCLUDE_STOCK_ARCORE := true
